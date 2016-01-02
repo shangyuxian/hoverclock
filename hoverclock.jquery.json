@@ -1,0 +1,37 @@
+﻿{
+"name": "hoverclock",
+"title": "hoverclock jQuery HTML5 Clock",
+"description": "HTML5 Clock.A distinctive jQuery plugin.Very simple to use.",
+"keywords": [
+"hoverclock",
+"hovertree",
+"UI",
+"jquery",
+  "jquery-plugin",
+  "html5"
+],
+ "version": "1.0.0",
+ "author": {
+"name": "HoverTree",
+"url": "http://hovertree.com"
+},
+"maintainers": [
+{
+"name": "HoverTree",
+"url": "http://hovertree.com"
+}
+],
+"licenses": [
+{
+"type": "MIT",
+"url": "http://hovertree.com/texiao/hoverclock/license.htm"
+}
+],
+"homepage": "http://hovertree.com/texiao/hoverclock/",
+"docs": "http://hovertree.com/texiao/hoverclock/",
+"download": "http://hovertree.com/texiao/hoverclock/",
+"demo": "http://hovertree.com/texiao/hoverclock/",
+"dependencies": {
+"jquery": ">=1.9"
+}
+}

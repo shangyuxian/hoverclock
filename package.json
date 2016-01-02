@@ -1,0 +1,35 @@
+{
+  "author": "HoverTree <http://hovertree.com>",
+  "bugs": {
+    "url": "https://github.com/shangyuxian/hoverclock/issues"
+  },
+  "contributors": [
+    "Keleyi <http://keleyi.com>",
+    "WuYifan <https://www.npmjs.com/package/hoverclock>"
+  ],
+  "dependencies": {
+    "jquery": "2.1.4"
+  },
+  "description": "jQuery plugin, UI,HTML5,Clock,hoverclock,hovertree",
+  "devDependencies": {
+    "jquery": "2.1.4"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "homepage": "http://hovertree.com/texiao/hoverclock/",
+  "keywords": [
+    "hoverclock",
+    "jQuery",
+    "jquery-plugin",
+    "UI",
+    "jquery plugin",
+    "hovertree",
+    "html5"
+  ],
+  "license": "MIT",
+  "name": "hoverclock",
+  "repository": { "type": "git",
+    "url": "https://github.com/shangyuxian/hoverclock"},
+  "version": "1.0.0"
+}
